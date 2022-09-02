@@ -28,7 +28,7 @@ def random_country():
     return random_country
 
 def countries(number):
-    """Creates a list of 3 random countries"""
+    """Creates a selected length list of random countries"""
     countries = []
     x = 0
     while x < number:
